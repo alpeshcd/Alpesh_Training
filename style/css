@@ -1,0 +1,21 @@
+.container {
+    max-width: 850px;
+    padding: 0px 100px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+}
+
+.header1 {
+    width: 50%;
+    float: left;
+    display: flex;
+}
+
+.header2 {
+    width: 50%;
+    float: left;
+    display: flex;
+}
